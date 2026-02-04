@@ -16,7 +16,7 @@ import {
   Menu,
   X
 } from 'lucide-react';
-import Dashboard from './components/Dashboard';
+import Dashboard from './components/Dashboard/Dashboard';
 import PipelineVisualizer from './components/PipelineVisualizer';
 import ControlPanel from './components/ControlPanel';
 import SummaryReport from './components/SummaryReport';
