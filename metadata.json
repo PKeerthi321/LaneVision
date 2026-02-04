@@ -1,7 +1,0 @@
-{
-  "name": "LaneVision ",
-  "description": "An advanced lane detection and confidence scoring dashboard for intelligent transportation systems research. Featuring real-time CV pipeline visualization, confidence analytics, and automated reporting.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
